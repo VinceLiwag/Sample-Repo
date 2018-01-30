@@ -1,0 +1,21 @@
+git shits
+
+you already have files
+
+-git init
+-git remote add origin <address>
+-git remote -v (to check lang if oks na)
+-git status
+-git add -A
+-git commit -m "description" 
+-git push <remote name - origin> <branch name>
+-git config user.email "email"
+-git config user.name "name"
+
+you already have a remote repo with files
+-git clone <remote url>
+
+
+Branches
+	Master
+	
